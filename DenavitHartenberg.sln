@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenavitHartenberg", "DenavitHartenberg\DenavitHartenberg.csproj", "{EAE1EDDA-8A8D-43C6-9D61-68CC8429E803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE1EDDA-8A8D-43C6-9D61-68CC8429E803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE1EDDA-8A8D-43C6-9D61-68CC8429E803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE1EDDA-8A8D-43C6-9D61-68CC8429E803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE1EDDA-8A8D-43C6-9D61-68CC8429E803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62DA9F07-8FE7-4C93-99EC-15159C91693F}
+	EndGlobalSection
+EndGlobal
